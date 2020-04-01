@@ -20,3 +20,14 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+
+
+
+/*
+|--------------------------------------------------------------------------
+| CONSULTANT ROUTES
+|--------------------------------------------------------------------------
+*/
+
+Route::get('/consultant/dashboard','Consultant\DashboardController@show');
