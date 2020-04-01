@@ -10,5 +10,9 @@
 
 <script src="{{asset('assets/js/pages/dashboard.init.js')}}"></script>
 
+
+<!-- page script -->
+@yield('page-script')
+
 <!-- App js -->
 <script src="{{asset('assets/js/app.js')}}"></script>

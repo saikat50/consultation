@@ -30,4 +30,7 @@ Route::get('/home', 'HomeController@index')->name('home');
 |--------------------------------------------------------------------------
 */
 
-Route::get('/consultant/dashboard','Consultant\DashboardController@show');
+Route::get('/consultant/dashboard','Consultant\DashboardController@show')->name('Consultant.Dashboard-Show');
+Route::get('/consultant/dashboard/messages','MessageController@consultant_ui')->name('Consultant.Message-Ui');
+Route::get('/consultant/dashboard/orders','Consultant\OrderController@show')->name('Consultant.Order-Show');
+Route::get('/consultant/dashboard/order-details/{id}','Consultant\OrderController@order_details')->name('Consultant.Order-Details');

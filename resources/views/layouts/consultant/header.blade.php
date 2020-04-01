@@ -6,23 +6,20 @@
                 <ul class="navbar-nav">
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle arrow-none" href="#" id="topnav-dashboard" role="button"
-                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle arrow-none" href="{{route('Consultant.Dashboard-Show')}}">
                             <i class="bx bx-home-circle mr-2"></i>Dashboard
                         </a>
 
                     </li>
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle arrow-none" href="#" id="topnav-uielement" role="button"
-                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle arrow-none" href="{{route('Consultant.Message-Ui')}}">
                             <i class="bx bx-tone mr-2"></i>Messages
                         </a>
                     </li>
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle arrow-none" href="#" id="topnav-pages" role="button"
-                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle arrow-none" href="{{route('Consultant.Order-Show')}}">
                             <i class="bx bx-customize mr-2"></i>Orders
                         </a>
                     </li>

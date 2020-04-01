@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="de580229-8141-4622-a4e2-e31917136b3e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/consultant/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/consultant/footer.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/consultant/header-top.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/consultant/header-top.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/dashboards/consultant/messages.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/dashboards/consultant/messages.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/consultant/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/consultant/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/consultant/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/consultant/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/consultant/scripts.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/consultant/scripts.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/consultant/stylesheets.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/consultant/stylesheets.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
@@ -162,7 +163,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585663791836</updated>
-      <workItem from="1585663794604" duration="11595000" />
+      <workItem from="1585663794604" duration="30516000" />
     </task>
     <servers />
   </component>
@@ -174,9 +175,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="406" y="178" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1585672812053" />
-    <state x="518" y="287" key="NewPhpFileDialog" timestamp="1585734832775">
+    <state x="518" y="287" key="NewPhpFileDialog" timestamp="1585746028766">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="518" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1585734832775" />
+    <state x="518" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1585746028766" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1585744984154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585744984154" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585741487145">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585741487145" />
   </component>
 </project>
