@@ -25,8 +25,7 @@
                     </li>
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle arrow-none" href="#" id="topnav-components" role="button"
-                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle arrow-none" href="{{route('Consultant.Service-Show')}}">
                             <i class="bx bx-collection mr-2"></i>Services
                         </a>
 
