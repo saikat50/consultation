@@ -14,5 +14,11 @@ class ServiceController extends Controller
         return view('dashboards.consultant.services');
     }
 
+    public function overview(){
+
+        return view('dashboards.consultant.service-generator.overview');
+
+    }
+
 
 }

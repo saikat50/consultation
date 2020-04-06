@@ -35,6 +35,7 @@ Route::get('/consultant/dashboard/messages','MessageController@consultant_ui')->
 Route::get('/consultant/dashboard/orders','Consultant\OrderController@show')->name('Consultant.Order-Show');
 Route::get('/consultant/dashboard/order-details/{id}','Consultant\OrderController@order_details')->name('Consultant.Order-Details');
 Route::get('/consultant/dashboard/services','Consultant\ServiceController@show')->name('Consultant.Service-Show');
+Route::get('/consultant/dashboard/services/create/overview','Consultant\ServiceController@overview')->name('Consultant.Service-Overview');
 
 
 
