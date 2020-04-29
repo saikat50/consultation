@@ -12,19 +12,23 @@
                 <div class="navbar-brand-box">
                     <a href="index.html" class="logo logo-dark">
                                 <span class="logo-sm">
-                                    <img src="{{asset('assets/images/logo.svg')}}" alt="" height="22">
+{{--                                    <img src="{{asset('assets/images/logo.svg')}}" alt="" height="22">--}}
+                                    Consultation
                                 </span>
                         <span class="logo-lg">
-                                    <img src="{{asset('assets/images/logo-dark.png')}}" alt="" height="17">
+{{--                                    <img src="{{asset('assets/images/logo-dark.png')}}" alt="" height="17">--}}
+                            Consultation
                                 </span>
                     </a>
 
                     <a href="index.html" class="logo logo-light">
                                 <span class="logo-sm">
-                                    <img src="{{asset('assets/images/logo-light.svg')}}" alt="" height="22">
+{{--                                    <img src="{{asset('assets/images/logo-light.svg')}}" alt="" height="22">--}}
+                                    Consultation
                                 </span>
                                 <span class="logo-lg">
-                                    <img src="{{asset('assets/images/logo-light.png')}}" alt="" height="19">
+{{--                                    <img src="{{asset('assets/images/logo-light.png')}}" alt="" height="19">--}}
+                                    Consultation
                                 </span>
                     </a>
                 </div>
@@ -43,7 +47,7 @@
 
                 <div class="dropdown dropdown-mega d-none d-lg-block ml-2">
                     <button type="button" class="btn header-item waves-effect" data-toggle="dropdown" aria-haspopup="false" aria-expanded="false">
-                        Mega Menu
+                        Consultation Services
                         <i class="mdi mdi-chevron-down"></i>
                     </button>
                     <div class="dropdown-menu dropdown-megamenu">
@@ -389,11 +393,11 @@
                     </div>
                 </div>
 
-                <div class="dropdown d-inline-block">
-                    <button type="button" class="btn header-item noti-icon right-bar-toggle waves-effect">
-                        <i class="bx bx-cog bx-spin"></i>
-                    </button>
-                </div>
+{{--                <div class="dropdown d-inline-block">--}}
+{{--                    <button type="button" class="btn header-item noti-icon right-bar-toggle waves-effect">--}}
+{{--                        <i class="bx bx-cog bx-spin"></i>--}}
+{{--                    </button>--}}
+{{--                </div>--}}
 
             </div>
         </div>

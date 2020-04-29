@@ -34,8 +34,7 @@
 
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle arrow-none" href="#" id="topnav-more" role="button"
-                           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle arrow-none" href="{{route('Consultant.Show-Earnings')}}">
                             <i class="bx bx-file mr-2"></i>Earnings
                         </a>
                     </li>

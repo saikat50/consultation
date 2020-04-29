@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de580229-8141-4622-a4e2-e31917136b3e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/consultation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/consultation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Consultant/ServiceController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Consultant/ServiceController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/dashboards/consultant/services.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/dashboards/consultant/services.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/dashboards/consultant/order-details.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/dashboards/consultant/order-details.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/dashboards/consultant/service-generator/overview.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/dashboards/consultant/service-generator/overview.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/consultant/header-top.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/consultant/header-top.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/consultant/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/consultant/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/consultant/scripts.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/consultant/scripts.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/consultant/stylesheets.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/consultant/stylesheets.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -144,7 +143,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../education-system" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../homesite" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -173,6 +172,8 @@
       <workItem from="1585663794604" duration="35524000" />
       <workItem from="1585775867099" duration="3930000" />
       <workItem from="1585921977003" duration="1541000" />
+      <workItem from="1587545132057" duration="3237000" />
+      <workItem from="1587647254964" duration="5842000" />
     </task>
     <servers />
   </component>
@@ -180,26 +181,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1585924143532">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1587661723532">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585924143532" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587661723532" />
     <state x="406" y="178" key="NewPhpClassDialog" timestamp="1585672812053">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="406" y="178" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1585672812053" />
-    <state x="518" y="287" key="NewPhpFileDialog" timestamp="1585777770555">
+    <state x="518" y="287" key="NewPhpFileDialog" timestamp="1587650607715">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="518" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1585777770555" />
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1585922092643">
+    <state x="518" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1587650607715" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1587647345571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585922092643" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1585744984154">
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587647345571" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1587648747027">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585744984154" />
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1587648747027" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585741487145">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

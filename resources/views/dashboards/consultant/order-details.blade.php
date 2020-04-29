@@ -350,7 +350,7 @@
                 document.addEventListener('DOMContentLoaded', () => {
 
                     // Unix timestamp (in seconds) to count down to
-                    var timeline = (new Date("Apr 5, 2020 00:00:00").getTime() / 1000);
+                    var timeline = (new Date("Apr 25, 2020 00:00:00").getTime() / 1000);
 
                     console.log(new Date().getTime());
 
